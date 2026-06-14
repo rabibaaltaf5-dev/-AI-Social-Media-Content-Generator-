@@ -1,0 +1,3 @@
+# No external packages required.
+# This project uses Python built-in libraries only:
+# tkinter, sqlite3, pathlib, datetime, random, os

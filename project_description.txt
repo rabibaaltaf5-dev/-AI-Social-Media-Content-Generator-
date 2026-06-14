@@ -1,0 +1,9 @@
+Project Title: Offline AI Chatbot & Social Media Content Generator
+
+This project is a GUI-based Python application designed for students to demonstrate Generative AI concepts without using paid APIs or internet services. It combines two main features: an AI-style chatbot and a social media content generator.
+
+The chatbot works using keyword detection and predefined intelligent responses. It can answer common questions related to AI, Python, projects, GitHub, presentations, and content creation.
+
+The content generator creates social media captions, hashtags, and post ideas based on the user's selected topic, platform, tone, and length. The project includes an attractive dashboard interface, local history saving through SQLite, and export functionality.
+
+Since the project is fully offline, it is stable for classroom demonstrations and does not require an API key.
